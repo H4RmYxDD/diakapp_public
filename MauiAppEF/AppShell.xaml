@@ -3,14 +3,14 @@
     x:Class="MauiAppEF.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:MauiAppEF"
+    xmlns:local="clr-namespace:MauiAppEF.Views"
     Shell.FlyoutBehavior="Flyout"
     Title="MauiAppEF">
 
     <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        Route="MainPage"/>
     <ShellContent
         Title="Diakok"
         ContentTemplate="{DataTemplate local:StudentPage}"

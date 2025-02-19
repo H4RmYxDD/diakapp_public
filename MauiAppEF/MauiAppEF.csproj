@@ -71,16 +71,16 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="GradesPage.xaml">
+	  <MauiXaml Update="Views\GradesPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="StatisticsPage.xaml">
+	  <MauiXaml Update="Views\StatisticsPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="StudentPage.xaml">
+	  <MauiXaml Update="Views\StudentPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="SubjectPage.xaml">
+	  <MauiXaml Update="Views\SubjectPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

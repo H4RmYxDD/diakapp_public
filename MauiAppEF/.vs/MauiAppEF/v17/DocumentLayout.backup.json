@@ -3,40 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\balaz\\Diakapp\\MauiAppEF\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\gradespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\gradespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\gradespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\gradespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\subjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:subjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\statisticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:statisticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\gradespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:gradespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\data\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:data\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\statisticspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:statisticspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\data\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:data\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\subjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:subjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\studentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:studentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\studentpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:studentpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\statisticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\statisticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\gradespage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:gradespage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\subjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\subjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\studentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\studentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\studentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\studentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\subjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\subjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\statisticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\statisticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\gradespage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\gradespage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|c:\\users\\balaz\\diakapp\\mauiappef\\views\\statisticspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90EFABDE-FD31-49BC-93CE-DDF602C21EA0}|MauiAppEF.csproj|solutionrelative:views\\statisticspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +114,322 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T16:51:53.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentPage.xaml",
-              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\StudentPage.xaml",
-              "RelativeDocumentMoniker": "StudentPage.xaml",
-              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\StudentPage.xaml",
-              "RelativeToolTip": "StudentPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T08:06:51.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SubjectPage.xaml",
-              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\SubjectPage.xaml",
-              "RelativeDocumentMoniker": "SubjectPage.xaml",
-              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\SubjectPage.xaml",
-              "RelativeToolTip": "SubjectPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T08:09:42.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GradesPage.xaml",
-              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\GradesPage.xaml",
-              "RelativeDocumentMoniker": "GradesPage.xaml",
-              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\GradesPage.xaml",
-              "RelativeToolTip": "GradesPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T08:09:22.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StatisticsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\StatisticsPage.xaml",
-              "RelativeDocumentMoniker": "StatisticsPage.xaml",
-              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\StatisticsPage.xaml",
-              "RelativeToolTip": "StatisticsPage.xaml",
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\App.xaml",
+              "RelativeToolTip": "App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T08:06:47.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\StudentPage.xaml.cs",
-              "RelativeDocumentMoniker": "StudentPage.xaml.cs",
-              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\StudentPage.xaml.cs",
-              "RelativeToolTip": "StudentPage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:09:45.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SubjectPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\SubjectPage.xaml.cs",
-              "RelativeDocumentMoniker": "SubjectPage.xaml.cs",
-              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\SubjectPage.xaml.cs",
-              "RelativeToolTip": "SubjectPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:07:02.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T18:25:51.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StatisticsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\StatisticsPage.xaml.cs",
-              "RelativeDocumentMoniker": "StatisticsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\StatisticsPage.xaml.cs",
-              "RelativeToolTip": "StatisticsPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewBgAAAAJAAAAAAAAAA==",
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:09:52.202Z",
+              "WhenOpened": "2025-02-19T18:22:29.691Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubjectPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\SubjectPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SubjectPage.xaml.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\SubjectPage.xaml.cs",
+              "RelativeToolTip": "Views\\SubjectPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:07:02.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StatisticsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\StatisticsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\StatisticsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\StatisticsPage.xaml.cs",
+              "RelativeToolTip": "Views\\StatisticsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:09:52.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GradesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\GradesPage.xaml",
+              "RelativeDocumentMoniker": "Views\\GradesPage.xaml",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\GradesPage.xaml",
+              "RelativeToolTip": "Views\\GradesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T17:59:39.005Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "GradesPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\GradesPage.xaml.cs",
-              "RelativeDocumentMoniker": "GradesPage.xaml.cs",
-              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\GradesPage.xaml.cs",
-              "RelativeToolTip": "GradesPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAvwB0AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\GradesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\GradesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\GradesPage.xaml.cs",
+              "RelativeToolTip": "Views\\GradesPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:09:16.472Z",
+              "WhenOpened": "2025-02-19T08:09:16.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Data\\Subject.cs",
+              "RelativeDocumentMoniker": "Data\\Subject.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Data\\Subject.cs",
+              "RelativeToolTip": "Data\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:32:13.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\FileService.cs",
+              "RelativeDocumentMoniker": "FileService.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\FileService.cs",
+              "RelativeToolTip": "FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:08:23.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:08:27.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T17:57:47.965Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:59:46.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:25:58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Data\\Grades.cs",
+              "RelativeDocumentMoniker": "Data\\Grades.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Data\\Grades.cs",
+              "RelativeToolTip": "Data\\Grades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:31:47.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Data\\Student.cs",
+              "RelativeDocumentMoniker": "Data\\Student.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Data\\Student.cs",
+              "RelativeToolTip": "Data\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:32:04.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\StudentPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\StudentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\StudentPage.xaml.cs",
+              "RelativeToolTip": "Views\\StudentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:09:45.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\StudentPage.xaml",
+              "RelativeDocumentMoniker": "Views\\StudentPage.xaml",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\StudentPage.xaml",
+              "RelativeToolTip": "Views\\StudentPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T17:50:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T16:51:53.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:20:29.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StatisticsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\StatisticsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\StatisticsPage.xaml",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\StatisticsPage.xaml",
+              "RelativeToolTip": "Views\\StatisticsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T18:03:23.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubjectPage.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\SubjectPage.xaml",
+              "RelativeDocumentMoniker": "Views\\SubjectPage.xaml",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\SubjectPage.xaml",
+              "RelativeToolTip": "Views\\SubjectPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T08:09:42.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Services\\SubjectService.cs",
+              "RelativeDocumentMoniker": "Services\\SubjectService.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Services\\SubjectService.cs",
+              "RelativeToolTip": "Services\\SubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:42:30.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:40:26.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Services\\GradeService.cs",
+              "RelativeDocumentMoniker": "Services\\GradeService.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Services\\GradeService.cs",
+              "RelativeToolTip": "Services\\GradeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:43:25.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GradesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\GradesPage.xaml",
+              "RelativeDocumentMoniker": "Views\\GradesPage.xaml",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\GradesPage.xaml",
+              "RelativeToolTip": "Views\\GradesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T08:09:22.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Services\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "Services\\StatisticsService.cs",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Services\\StatisticsService.cs",
+              "RelativeToolTip": "Services\\StatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:45:24.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StatisticsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\StatisticsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\StatisticsPage.xaml",
+              "ToolTip": "C:\\Users\\balaz\\Diakapp\\MauiAppEF\\Views\\StatisticsPage.xaml",
+              "RelativeToolTip": "Views\\StatisticsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T08:06:47.769Z"
             }
           ]
         }
