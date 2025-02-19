@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MauiAppEF.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MauiAppEF"
+    Shell.FlyoutBehavior="Flyout"
+    Title="MauiAppEF">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="Diakok"
+        ContentTemplate="{DataTemplate local:StudentPage}"
+        Route="StudentPage" />
+    <ShellContent
+        Title="Tantargyak"
+        ContentTemplate="{DataTemplate local:SubjectsPage}"
+        Route="SubjectPage" />
+    <ShellContent
+        Title="Jegyek"
+        ContentTemplate="{DataTemplate local:GradesPage}"
+        Route="GradesPage"/>
+    <ShellContent
+        Title="Statisztika"
+        ContentTemplate="{DataTemplate local:StatisticsPage}"
+        Route="StatisticsPage"/>
+
+</Shell>
